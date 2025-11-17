@@ -11,6 +11,10 @@
 
 #pragma once
 
+#include <cstddef>   // for std::size_t（如果本来就有可以不加）
+#include <cstdint>   // for std::uintptr_t, uint32_t
+#include <stdint.h>  // 有些编译器习惯从这里提供 uint32_t
+
 #include <iostream>
 #include <vector>
 #include "rasterizer.h"

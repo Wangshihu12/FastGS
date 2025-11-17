@@ -1,0 +1,4 @@
+# ninja log v5
+0	5732	1763390779182516322	/home/wang/3dgs/FastGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	2b62bd843fd7ff6e
+0	7814	1763390781265608184	/home/wang/3dgs/FastGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	e099659a49e7e762
+1	19511	1763390792956120213	/home/wang/3dgs/FastGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	c1b5367b8d27002e
